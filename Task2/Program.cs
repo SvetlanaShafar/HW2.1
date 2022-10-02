@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Введите три числа числи:");
+int a = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
+int c = Convert.ToInt32(Console.ReadLine());
+int max = a;
+
+if (a > max) max = a;
+if (b > max) max = b;
+if (c > max) max = c;
+Console.Write("Максимальное из трех числе max=");
+Console.WriteLine(max);
