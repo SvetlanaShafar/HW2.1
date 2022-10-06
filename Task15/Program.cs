@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-Console.WriteLine("Введите любую цифру:");
+Console.WriteLine("Введите любую цифру, обозначающую день недели:");
 int a = Convert.ToInt32(Console.ReadLine());
 if (a==6 || a==7)
 
