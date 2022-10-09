@@ -5,7 +5,11 @@ int b = 0;
 int ost = 0;
 int c = a;
 
-
+while (a < 10000 || a > 99999)
+{
+    Console.WriteLine("Введите пятизначное число");
+     a = Convert.ToInt32(Console.ReadLine());
+}
 if (a % 10 == 0)
     Console.WriteLine("Число не палиндром");
 else
