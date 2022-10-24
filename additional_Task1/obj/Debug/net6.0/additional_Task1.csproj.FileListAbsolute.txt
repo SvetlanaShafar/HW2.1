@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.AssemblyInfo.cs
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\bin\Debug\net6.0\additional_Task1.exe
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\bin\Debug\net6.0\additional_Task1.deps.json
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\bin\Debug\net6.0\additional_Task1.runtimeconfig.json
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\bin\Debug\net6.0\additional_Task1.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\bin\Debug\net6.0\additional_Task1.pdb
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\refint\additional_Task1.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.pdb
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\additional_Task1.genruntimeconfig.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task1\obj\Debug\net6.0\ref\additional_Task1.dll
