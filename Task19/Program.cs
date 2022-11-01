@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+Console.Clear();
 Console.WriteLine("Введите пятизначное число");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = 0;

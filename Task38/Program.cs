@@ -1,4 +1,6 @@
-﻿void FillArray(double[] array)
+﻿// Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
+
+void FillArray(double[] array)
 {
     for (int i = 0; i < array.Length; i++)
         array[i] = new Random().Next(1, 50);

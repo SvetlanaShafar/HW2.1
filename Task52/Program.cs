@@ -22,6 +22,10 @@ void PrintMatrix(int[,] matrix)
 
 
 
+// Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+
+// Например, задан массив:
+
 Console.Clear();
 Console.Write("Введите кол-во строк: ");
 int n = Convert.ToInt32(Console.ReadLine());

@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
+
+Console.Clear();
 Console.WriteLine("Введите цифру 8, для соответсвия условию задачи:");
 int a = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[a];

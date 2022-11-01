@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+
+Console.Clear();
 Console.WriteLine("Введите  к-во чисел");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = 0;

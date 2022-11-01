@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+
+Console.Clear();
 Console.WriteLine("Введите  число");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = 0;

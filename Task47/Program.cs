@@ -1,4 +1,6 @@
-﻿void InputMatrix(double[,] matrix)
+﻿//  Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+
+void InputMatrix(double[,] matrix)
 {
 for (int i = 0; i < matrix.GetLength(0); i++)
 {
