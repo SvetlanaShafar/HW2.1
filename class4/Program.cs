@@ -22,7 +22,7 @@
 // // Разбор дополнительной задачи на сбор черники
 // Console.Clear();
 // Console.Write("Введите кол-во кустов: ");
-// int n = Convert.ToInt32(Console.ReadLine());
+// int n = Convert.ToInt32(Console.ReadLine());  //количество кустов
 // int[] array = new int[n];
 // int[] result = new int[n];
 
