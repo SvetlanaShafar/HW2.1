@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.AssemblyInfo.cs
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\bin\Debug\net6.0\additional_Task357.exe
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\bin\Debug\net6.0\additional_Task357.deps.json
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\bin\Debug\net6.0\additional_Task357.runtimeconfig.json
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\bin\Debug\net6.0\additional_Task357.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\bin\Debug\net6.0\additional_Task357.pdb
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\refint\additional_Task357.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.pdb
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\additional_Task357.genruntimeconfig.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task357\obj\Debug\net6.0\ref\additional_Task357.dll

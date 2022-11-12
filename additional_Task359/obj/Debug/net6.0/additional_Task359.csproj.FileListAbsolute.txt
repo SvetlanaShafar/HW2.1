@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\bin\Debug\net6.0\additional_Task359.exe
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\bin\Debug\net6.0\additional_Task359.deps.json
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\bin\Debug\net6.0\additional_Task359.runtimeconfig.json
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\bin\Debug\net6.0\additional_Task359.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\bin\Debug\net6.0\additional_Task359.pdb
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.AssemblyInfo.cs
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\refint\additional_Task359.dll
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.pdb
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\additional_Task359.genruntimeconfig.cache
+C:\Users\asus\Desktop\Учеба\ДЗ\HW2.1\additional_Task359\obj\Debug\net6.0\ref\additional_Task359.dll
